@@ -1,0 +1,15 @@
+process_boltlmm_all_variants.R
+
+
+
+process_boltlmm_all_variants.R
+generate_min_p.R
+
+..... (check the Snakefile)
+
+job_creation_script.py (have many variants of this file but the others don't matter)
+check_block_mafs.R
+merge_univar_results.R
+table_genotypes_condsig.R
+pull_genotypes_condsig_position.sh
+cond.R

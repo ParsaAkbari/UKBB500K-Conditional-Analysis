@@ -1,0 +1,11 @@
+.snakemake/
+benchmarks/
+\#*
+*~
+output
+temp
+\.\#*
+*\.out
+*csv
+*tsv
+python_envs
